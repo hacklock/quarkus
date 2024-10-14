@@ -1,4 +1,4 @@
-# election-management
+# Election-management 2024
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
